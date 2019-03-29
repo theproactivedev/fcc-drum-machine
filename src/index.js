@@ -99,6 +99,10 @@ class App extends React.Component {
           <a href="https://eiringonzalescodes.com">
             Developed by Eirin Gonzales
           </a>
+
+          <div>
+            <p>Photo by Drew Sal on Unsplash</p>
+          </div>
         </footer>
       </div>
     );
